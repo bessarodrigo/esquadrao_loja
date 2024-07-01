@@ -75,19 +75,19 @@ Execute o script ETL para processar e inserir os dados no banco de dados Postgre
 ```bash
 python loja_esquadrao.py
 
-Contribuição
+## Contribuição
 Se desejar contribuir com o projeto, siga os passos abaixo:
 
-Fork o repositório.
-Crie um branch para sua feature (git checkout -b feature/nome-da-feature).
-Commit suas alterações (git commit -m 'Adicionar feature x').
-Push para o branch (git push origin feature/nome-da-feature).
-Abra um Pull Request.
+1. Fork o repositório.
+2. Crie um branch para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Commit suas alterações (`git commit -m 'Adicionar feature x'`).
+4. Push para o branch (`git push origin feature/nome-da-feature`).
+5. Abra um Pull Request.
 
-Licença
-Este projeto está licenciado sob a MIT License.
+## Licença
+Este projeto está licenciado sob a [MIT License](link-para-a-licença).
 
-Contatos
+## Contatos
 Para mais informações ou dúvidas, entre em contato:
 
-LinkedIn: https://www.linkedin.com/in/rodrigo-bessa/
+LinkedIn: [Rodrigo Bessa](https://www.linkedin.com/in/rodrigo-bessa/)
