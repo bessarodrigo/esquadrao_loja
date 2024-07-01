@@ -69,25 +69,25 @@ Instruções para configurar e executar o projeto:
 
 6. Configure a conexão do Power BI com o banco de dados PostgreSQL para visualizar o painel.
 
-## Uso
+Uso
 Execute o script ETL para processar e inserir os dados no banco de dados PostgreSQL:
 
 ```bash
 python loja_esquadrao.py
 
-## Contribuição
+Contribuição
 Se desejar contribuir com o projeto, siga os passos abaixo:
 
-## Fork o repositório.
+Fork o repositório.
 Crie um branch para sua feature (git checkout -b feature/nome-da-feature).
 Commit suas alterações (git commit -m 'Adicionar feature x').
 Push para o branch (git push origin feature/nome-da-feature).
 Abra um Pull Request.
 
-## Licença
+Licença
 Este projeto está licenciado sob a MIT License.
 
-## Contatos
+Contatos
 Para mais informações ou dúvidas, entre em contato:
 
 LinkedIn: https://www.linkedin.com/in/rodrigo-bessa/
