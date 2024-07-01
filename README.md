@@ -1,7 +1,7 @@
 # Painel de Métricas para o Esporte Clube Bahia
 
 ## Descrição
-Este projeto foi desenvolvido para criar um painel de visualização no Power BI, permitindo que os gestores da loja do Esporte Clube Bahia mensurem periodicamente as principais métricas de desempenho, como faturamento, quantidade vendida, ticket médio e desempenho da equipe de operadores de caixa e vendedores. 
+Este projeto foi desenvolvido para criar um painel no Power BI, permitindo que os gestores da loja do Esporte Clube Bahia mensurem periodicamente as principais métricas de desempenho, como faturamento, quantidade vendida, ticket médio e desempenho da equipe de operadores de caixa e vendedores. 
 
 Utilizando a metodologia CRISP-DM, o projeto abrange desde o entendimento do problema até a entrega da solução final, utilizando Python para ETL e PostgreSQL para integração dos dados.
 
