@@ -23,7 +23,7 @@ locale.setlocale(locale.LC_NUMERIC, 'pt_BR.UTF-8')
 excel_file = r'C:/Caminho/Para/Sua/Pasta'
 
 # Leitura do arquivo Excel e seleção das colunas desejadas
-df = pd.read_excel(excel_file, sheet_name='Sheet1', usecols=['Data', 'Valor', 'Status', 'Info. Compl'])
+df = pd.read_excel(excel_file, sheet_name='Planilha1', usecols=['Data', 'Valor', 'Status', 'Info. Compl'])
 
 # Exibir as primeiras linhas do DataFrame
 print(df.head())
