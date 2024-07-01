@@ -20,7 +20,7 @@ import re
 locale.setlocale(locale.LC_NUMERIC, 'pt_BR.UTF-8')
 
 # Caminho do arquivo Excel
-excel_file = r'C:\Users\rodri\anaconda3\Estudo\Export_Vendas_Sintetico.xlsx'
+excel_file = r'C:/Caminho/Para/Sua/Pasta'
 
 # Leitura do arquivo Excel e seleção das colunas desejadas
 df = pd.read_excel(excel_file, sheet_name='Sheet1', usecols=['Data', 'Valor', 'Status', 'Info. Compl'])
@@ -74,7 +74,7 @@ print(df.dtypes)
 # Passo 3: Inserir dados no banco de dados PostgreSQL
 try:
     # Definir a string de conexão com o banco de dados PostgreSQL
-    postgres_str = 'postgresql://postgres:123456789@localhost:5432/esquadrao'
+    postgres_str = 'postgresql://user:password@localhost:5432/esquadrao'
 
     # Criar uma conexão com o banco de dados
     engine = create_engine(postgres_str)
@@ -83,8 +83,8 @@ try:
         print("Conexão com o banco de dados estabelecida com sucesso!")
 
         # Nome do esquema e da tabela no banco de dados
-        schema_name = 'esquadrao'
-        table_name = 'tbl_loja'
+        schema_name = 'seu_schema'
+        table_name = 'sua_tabela'
 
         # Exibir as colunas da tabela no banco de dados
         query = f"""
