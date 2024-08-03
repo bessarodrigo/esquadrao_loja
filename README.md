@@ -7,7 +7,7 @@ Utilizando a metodologia CRISP-DM, o projeto abrange desde o entendimento do pro
 
 ## Artigo no Medium
 
-[Painel de Análise para Gestão de Vendas no Esporte Clube Bahia]([https://medium.com/sua-url-do-artigo](https://medium.com/@reisrodri/painel-de-an%C3%A1lise-para-gest%C3%A3o-de-vendas-no-esporte-clube-bahia-d666aa05f2a1)
+[Painel de Análise para Gestão de Vendas no Esporte Clube Bahia](https://medium.com/@reisrodri/painel-de-an%C3%A1lise-para-gest%C3%A3o-de-vendas-no-esporte-clube-bahia-d666aa05f2a1)
 
 ## Estrutura do Projeto
 1. **Entendimento do Negócio**
