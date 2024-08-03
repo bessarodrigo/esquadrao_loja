@@ -5,6 +5,10 @@ Este projeto foi desenvolvido para criar um painel no Power BI, permitindo que o
 
 Utilizando a metodologia CRISP-DM, o projeto abrange desde o entendimento do problema até a entrega da solução final, utilizando Python para ETL e PostgreSQL para integração dos dados.
 
+## Artigo no Medium
+
+[Painel de Análise para Gestão de Vendas no Esporte Clube Bahia]([https://medium.com/sua-url-do-artigo](https://medium.com/@reisrodri/painel-de-an%C3%A1lise-para-gest%C3%A3o-de-vendas-no-esporte-clube-bahia-d666aa05f2a1)
+
 ## Estrutura do Projeto
 1. **Entendimento do Negócio**
    - Identificação das necessidades dos gestores da loja para monitorar as métricas de desempenho.
