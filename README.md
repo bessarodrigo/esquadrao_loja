@@ -23,6 +23,14 @@ Utilizando a metodologia CRISP-DM, o projeto abrange desde o entendimento do pro
    - Renomeação das colunas para padronização.
    - Conversão de valores financeiros, adaptando o formato brasileiro (R$).
    - Conversão de datas para o formato adequado.
+  
+4. **Análise Exploratória**
+
+   - Estatísticas Descritivas: Cálculo de métricas como média, mediana e desvio padrão para as colunas principais.
+   - Visualizações: Criação de histogramas e boxplots para explorar a distribuição dos valores e identificar anomalias.
+   - Desempenho: Gráficos de barras mostraram o desempenho por operador e vendedor, enquanto gráficos de linha analisaram o desempenho mensal.
+   - Limpeza dos Dados: Remoção de registros com status 'Cancelada' e 'Inutilizada'.
+   - Essas análises ajudaram a obter uma visão clara das vendas e do desempenho da equipe.
 
 4. **Modelagem**
    - Criação de um banco de dados PostgreSQL para armazenar os dados transformados.
