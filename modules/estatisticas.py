@@ -17,4 +17,3 @@ def calcular_estatisticas(amostra):
         "3º Quartil": np.percentile(amostra, 75)
     }
     return estatisticas
-    
